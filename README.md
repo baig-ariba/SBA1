@@ -1,5 +1,7 @@
 # SBA Lab 1
 
+## Website is live at https://baig-ariba.github.io/SBA1/
+
 ### Creating the branches
 The folder started with the main directory. Each branch after the main branch introduced a new feature on the webpage. Once the edits to each branch had been made it was added and committed. 
 
